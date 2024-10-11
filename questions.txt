@@ -1,0 +1,13 @@
+Description of idea:
+I figured it would be better to cut down on my code for the PA just to make things like
+the algorithm simpler for me, but wound up cutting out things I wanted to keep in. This gave
+me the opportunity to flesh out "A Camping Game where you aren't Attacked by Wolves" while also
+practicing stuff like functions and lists. Since I haven't done python in a while I figured
+brushing up on these things would be useful so this was a good opportunity to do so.
+
+Reflections:
+Overall, I relearned how to use functions, lists, and some list methods. In terms of further
+questions maybe just what applications these things could have for the next PA. It seems
+to be decently interesting, but i'm not sure if these will be useful yet. In the end this homework
+was so much more enjoyable and better for practicing than the Zybooks work has been even though
+it probably took longer.

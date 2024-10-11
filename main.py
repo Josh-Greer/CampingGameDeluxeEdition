@@ -1,7 +1,6 @@
-from unittest import skipIf
 
-decision_log = [False, False, False]
-answer = ""
+
+#Values used for the ending
 paranoia = 0
 enthusiasm = 0
 
@@ -13,11 +12,11 @@ def question(responses,ans):
     else:
         return False
 
-print(f"A Camping Game where you aren't attacked by Wolves")
+print(f"A Camping Game where you aren't Attacked by Wolves")
 name = input("Enter Name: ")
 
 print(f"{name}! Do you like camping? [Yes/No]")
-answer = input()
+answer = input("")
 if (answer.lower() == "yes"):
     print("Great! If you didn't like camping then this game probably wouldn't be too interesting!")
     enthusiasm += 1
@@ -103,9 +102,6 @@ while(storyphase1[0]):
             input("Press enter to explore")
 
 print("Now you're deeper in the woods!")
-
-
-
 
 
 print("What kind of deeper woods activities do you wanna do?")
